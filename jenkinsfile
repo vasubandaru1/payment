@@ -2,7 +2,7 @@
 
 
 python(
-         COMPONENT     : 'python',
+         COMPONENT     : 'payment',
          LABEL         : 'work'
 )
 
