@@ -2,8 +2,7 @@
 
 
 python(
-
-    COMPONENT     : 'payment',
-    LABEL         : 'work'
+         COMPONENT     : 'payment',
+         LABEL         : 'work'
 )
 
