@@ -1,0 +1,9 @@
+@Library('roboshop') _
+
+
+nodejs(
+
+    COMPONENT     : 'payment',
+    LABEL         : 'work'
+)
+
